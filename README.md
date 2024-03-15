@@ -39,32 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#output
+This section has moved here: [https://facebook.github.io/create-react-![Screenshot (5)](https://github.com/Sourpatil123/ERP-SYSTEM/assets/141032001/5eeab38c-546c-439b-9655-524338dcd565)![Screenshot (6)](https://github.com/Sourpatil123/ERP-SYSTEM/assets/141032001/c5c72bfb-ab96-4499-9e62-5c330e142c09)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook![Screenshot (8)](https://github.com/Sourpatil123/ERP-SYSTEM/assets/141032001/9739773a-0eb8-452f-9f25-8131125e42d6)
+![Screenshot (6)](https://github.com/Sourpatil123/ERP-SYSTEM/assets/141032001/1919854c-89f4-4cbf-aca3-c7320aacd86a)
+.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#output![Screenshot (4)](https://github.com/Sourpatil123/ERP-SYSTEM/assets/141032001/8e84ac63-ffef-41b1-8c0e-2a94fed25251)
